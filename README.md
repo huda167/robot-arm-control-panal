@@ -16,6 +16,8 @@ This is a Flutter-based web application that provides a simple and interactive c
 . Make sure you have Chrome or a web device available
 . Clone this repository
 . Run the following commands in the project folder:
+##screenshoot
+![Robot Arm Screenshot](screenshot.jpg)
 
 ```bash
 flutter pub get
